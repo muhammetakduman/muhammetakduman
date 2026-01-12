@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Kingdom of Lagaflare (WEB3 Gaming)](https://kolfgame.com/home)
 
+- - 🔭 I'm focusing on Spring, Redis, RabbitMQ, and PostgreSQL for the backend, and I'm building this app (FULL-STACK)(https://nekadarasatilir.tech/)
+
 - 🌱 I’m currently learning **Spring-boot , Microservices Architecture , Frontend Architecture**
 
 - 👯 I’m looking to collaborate on [Spring - Kotlin Entity Banking System Payment(info)](https://github.com/muhammetakduman/accountcase)
